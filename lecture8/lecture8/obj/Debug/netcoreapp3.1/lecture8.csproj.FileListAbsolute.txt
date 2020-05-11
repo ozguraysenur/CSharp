@@ -1,0 +1,11 @@
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.exe
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.deps.json
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.runtimeconfig.json
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.runtimeconfig.dev.json
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.dll
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\bin\Debug\netcoreapp3.1\lecture8.pdb
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\obj\Debug\netcoreapp3.1\lecture8.csprojAssemblyReference.cache
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\obj\Debug\netcoreapp3.1\lecture8.AssemblyInfoInputs.cache
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\obj\Debug\netcoreapp3.1\lecture8.AssemblyInfo.cs
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\obj\Debug\netcoreapp3.1\lecture8.dll
+C:\Users\aysen\Desktop\apbd\tutorials\lecture8\lecture8\obj\Debug\netcoreapp3.1\lecture8.pdb
